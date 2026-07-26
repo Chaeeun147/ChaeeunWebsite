@@ -34,4 +34,7 @@ label {
   display: block;
   margin: 50px auto;
   max-width: 100%;
-}
+
+  P {
+    background-image: url("https://i.pinimg.com/control1/736x/33/0e/0a/330e0a3bb0606576e1186fb43e46c4a1.jpg");
+  }
