@@ -1,7 +1,8 @@
 html {
   font-size: 15px;
   font-family: "Jua", sans-serif;
-  background-color: #cbcdd8;
+  background-color: rgb(75, 99, 134);
+  color: white;
 }
 
 p,
@@ -13,28 +14,47 @@ label {
   letter-spacing: 1px;
 }
 
+span {
+  border: 2px solid rebeccapurple;
+  width: 300px;
+}
+
+/* heading */
+
 h1 {
   /* font */
   font-size: 60px;
   text-align: center;
-  text-shadow: 3px 3px 1px black;
   /* box */
   margin: 0;
   padding: 20px 20px;
-  color: #2d3237;
+  color: white;
   width: 600px;
   margin: 30px auto;
-  background-color: #aeb1c4;
+  background-color: rgb(90, 116, 156);
   padding: 10px 10px 10px 10px;
-  border: 10px solid rgb(62, 61, 61);
+  border: 8px solid rgb(49, 71, 104);
 }
 
-img,
-label {
-  display: block;
-  margin: 50px auto;
-  max-width: 100%;
+ul {
+  display: flex;
+  list-style: none;
+  border: 1px solid black;
+}
 
-  P {
-    background-image: url("https://i.pinimg.com/control1/736x/33/0e/0a/330e0a3bb0606576e1186fb43e46c4a1.jpg");
-  }
+li {
+  margin: 5px;
+}
+
+.links-list a {
+  background-color: rgb(90, 116, 156);
+  color: white;
+  text-decoration: none;
+  padding: 1em 2em;
+  border: 5px solid rgb(49, 71, 104);
+}
+
+.links-list a:hover {
+  background-color: rgb(61, 83, 117);
+  color: white;
+}
