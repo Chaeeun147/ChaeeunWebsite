@@ -2,7 +2,7 @@ html {
   font-size: 15px;
   font-family: "Jua", sans-serif;
   background-color: rgb(28, 35, 48);
-  color: white;
+  color: rgb(190, 194, 202);
 }
 
 p,
@@ -23,7 +23,6 @@ h1 {
   /* box */
   margin: 0;
   padding: 20px 20px;
-  color: white;
   width: 600px;
   margin: 30px auto;
   background-color: rgb(48, 62, 86);
@@ -46,7 +45,7 @@ li {
 
 .links-list a {
   background-color: rgb(48, 62, 86);
-  color: white;
+  color: rgb(190, 194, 202);
   text-decoration: none;
   padding: 1em 2em;
   border: 5px solid rgb(37, 51, 73);
@@ -55,9 +54,8 @@ li {
 
 .links-list a:hover {
   background-color: rgb(61, 83, 117);
-  color: white;
 }
 
 .box {
-  border: 5px solid darkblue
+  border: 5px solid rgb(44, 56, 78)
 }
