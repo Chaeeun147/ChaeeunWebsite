@@ -1,7 +1,7 @@
 html {
   font-size: 15px;
   font-family: "Jua", sans-serif;
-  background-color: rgb(75, 99, 134);
+  background-color: rgb(28, 35, 48);
   color: white;
 }
 
@@ -12,11 +12,6 @@ label {
   font-weight: bold;
   line-height: 2;
   letter-spacing: 1px;
-}
-
-span {
-  border: 2px solid rebeccapurple;
-  width: 300px;
 }
 
 /* heading */
@@ -31,10 +26,13 @@ h1 {
   color: white;
   width: 600px;
   margin: 30px auto;
-  background-color: rgb(90, 116, 156);
+  background-color: rgb(48, 62, 86);
   padding: 10px 10px 10px 10px;
-  border: 8px solid rgb(49, 71, 104);
+  border: 8px solid rgb(37, 51, 73);
+  border-radius: 10px;
 }
+
+/* navigation bar */
 
 ul {
   display: flex;
@@ -47,14 +45,19 @@ li {
 }
 
 .links-list a {
-  background-color: rgb(90, 116, 156);
+  background-color: rgb(48, 62, 86);
   color: white;
   text-decoration: none;
   padding: 1em 2em;
-  border: 5px solid rgb(49, 71, 104);
+  border: 5px solid rgb(37, 51, 73);
+  border-radius: 6px;
 }
 
 .links-list a:hover {
   background-color: rgb(61, 83, 117);
   color: white;
+}
+
+.box {
+  border: 5px solid darkblue
 }
