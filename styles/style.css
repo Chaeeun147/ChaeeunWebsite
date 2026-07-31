@@ -59,3 +59,14 @@ li {
 .box {
   border: 5px solid rgb(44, 56, 78)
 }
+
+.woodworking-projects {
+  margin: 0;
+  padding: 20px 20px;
+  width: 600px;
+  margin: 30px auto;
+  background-color: rgb(48, 62, 86);
+  padding: 10px 10px 10px 10px;
+  border: 8px solid rgb(37, 51, 73);
+  border-radius: 10px;
+}
