@@ -6,6 +6,6 @@ This is my personal website! It is a space where I can showcase my interests, pr
 
 How this was made:
 
-This project was made in VS Code, and the art was made on piskelapp.com.
+This project was made in VS Code using HTML and CSS, and the art was made on piskelapp.com.
 
 Check it out here at https://chaeeun147.github.io/ChaeeunWebsite/!
