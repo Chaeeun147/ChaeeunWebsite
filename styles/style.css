@@ -60,6 +60,29 @@ li {
   border: 5px solid rgb(44, 56, 78)
 }
 
+
+/* projects bar */
+
+.projects-list a {
+  background-color: rgb(48, 62, 86);
+  color: rgb(190, 194, 202);
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 5px solid rgb(37, 51, 73);
+  border-radius: 6px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: auto; /* allows button to expand to fit text and icon */
+}
+
+.projects-list a:hover {
+  background-color: rgb(61, 83, 117);
+}
+
+
+/* woodworking projects bar */
 .woodworking-projects {
   margin: 0;
   padding: 20px 20px;
