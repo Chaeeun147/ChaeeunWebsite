@@ -37,6 +37,7 @@ h1 {
   padding: 10px 10px 10px 10px;
   border: 8px solid rgb(149, 163, 191);
   border-radius: 10px;
+  color: rgb(190, 194, 202);
 }
 
 /* navigation bar */
@@ -90,13 +91,14 @@ li {
 
 /* woodworking projects bar */
 
-.woodworking-projects {
+.projects {
   margin: 0;
   padding: 20px 20px;
   width: 600px;
   margin: 30px auto;
-  background-color: rgb(48, 62, 86);
+  background-color: rgb(128, 140, 167);
   padding: 10px 10px 10px 10px;
-  border: 8px solid rgb(37, 51, 73);
+  border: 8px solid rgb(149, 163, 191);
   border-radius: 10px;
+  color: rgb(190, 194, 202);
 }
