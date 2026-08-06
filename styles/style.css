@@ -1,8 +1,16 @@
 html {
   font-size: 15px;
   font-family: "Jua", sans-serif;
-  background-color: rgb(28, 35, 48);
   color: rgb(190, 194, 202);
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(https://raw.githubusercontent.com/Chaeeun147/ChaeeunWebsite/refs/heads/main/images/frog%20background.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 p,
