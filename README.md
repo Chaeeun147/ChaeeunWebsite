@@ -1,6 +1,6 @@
 ﻿# ChaeeunWebsite
  
-<img width="1906" height="940" alt="web" src="https://github.com/user-attachments/assets/68c339c7-8d2e-41d6-9ac1-0a964f5389fc" />
+<img width="1611" height="947" alt="personal website" src="https://github.com/user-attachments/assets/b7cd9e51-7349-4d27-83e0-2f0e785c86bf" />
 
 This is my personal website! It is a space where I can showcase my interests, projects, and more about myself!
 
