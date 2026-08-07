@@ -124,3 +124,19 @@ li {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/* back to projects */
+
+.back {
+  background-color: rgb(128, 140, 167);
+  color: rgb(204, 207, 213);
+  text-decoration: none;
+  padding: 1em 2em;
+  border: 5px solid rgb(149, 163, 191);
+  border-radius: 6px;
+  width: 60px;
+}
+
+.home:hover {
+  background-color: rgb(94, 104, 122);
+}
