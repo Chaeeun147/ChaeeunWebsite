@@ -54,7 +54,7 @@ li {
 
 .links-list a {
   background-color: rgb(128, 140, 167);
-  color: rgb(190, 194, 202);
+  color: rgb(204, 207, 213);
   text-decoration: none;
   padding: 1em 2em;
   border: 5px solid rgb(149, 163, 191);
@@ -72,7 +72,7 @@ li {
 
 .projects-list a {
   background-color: rgb(128, 140, 167);
-  color: rgb(190, 194, 202);
+  color: rgb(204, 207, 213);
   text-decoration: none;
   padding: 10px 20px;
   border: 5px solid rgb(149, 163, 191);
@@ -96,11 +96,11 @@ li {
   padding: 20px 20px;
   width: 600px;
   margin: 30px auto;
-  background-color: rgb(128, 140, 167);
+  background-color: #808ca7;
   padding: 10px 10px 10px 10px;
   border: 8px solid rgb(149, 163, 191);
   border-radius: 10px;
-  color: rgb(190, 194, 202);
+  color: rgb(204, 207, 213);
 }
 
 
@@ -111,4 +111,16 @@ li {
   border: 5px solid rgb(149, 163, 191, .5);
   border-radius: 6px;
   
+}
+
+
+.error-page {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  margin: 0;
+  background-image: url(https://raw.githubusercontent.com/Chaeeun147/ChaeeunWebsite/refs/heads/main/images/blue%20404%20error.gif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
